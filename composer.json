@@ -1,0 +1,16 @@
+{
+    "name": "relia",
+    "description": "Plugin para customizações do site REliA.",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Andre Keher",
+            "email": "andrekeher@outlook.com"
+        }
+    ],
+    "require": {  
+    },
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
